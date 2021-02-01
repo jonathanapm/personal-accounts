@@ -14,15 +14,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00bed078-9c55-4244-bc5d-b2c386f945f5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/personal-accounts.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/personal-accounts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/personalaccounts/model/AccountFlow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/personalaccounts/model/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/personalaccounts/model/BillsPay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/personalaccounts/model/Investments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/personalaccounts/model/PersonalExpenses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/personalaccounts/model/Salary.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -86,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612216405863</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Aplicando dependencias do projeto">
+      <created>1612217642362</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1612217642362</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,9 +120,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Reajuste do projeto inicial" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reajuste do projeto inicial" />
+    <MESSAGE value="Aplicando dependencias do projeto" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aplicando dependencias do projeto" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser" timestamp="1612219485272">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1612219485272" />
     <state x="409" y="55" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1612216301131">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
